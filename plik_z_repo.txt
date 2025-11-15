@@ -1,2 +1,3 @@
 test
 dodgmg ffff dddd
+dodatkowa tresc na nowa linijke
