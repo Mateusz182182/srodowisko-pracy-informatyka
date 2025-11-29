@@ -1,0 +1,30 @@
+ .---------------------------.
+ |  APLIKACJA ZARZĄDZANIA    |
+ |  CZASEM I NAUKĄ          |
+ |  (dla studentów 18–25)    |
+ |                           |
+ |   (Lista zadań)           |
+ |      ^                    |
+ |   (Ustalanie priorytetów) |
+ |      ^                    |
+ |   (Planowanie zadań)      |
+ |      ^                    |
+ |   (Kalendarz tygodniowy)  |
+ |      ^                    |
+ |   (Prosty timer)          |
+ |      ^                    |
+ |   (Podstawowe statystyki) |
+ |      ^                    |
+ '---------------------------'
+           ^
+           |
+ .-------------+-------------.
+ |                           |
+ .--( Student: użytkownik )------'
+ |   - wiek 18–25
+ |   - chce poprawić produktywność
+ '
+Legenda:
+ - Strzałki wskazują relacje aktora do przypadków użycia.
+ - Wszystkie funkcje mieszczą się wewnątrz systemu aplikacji.
+ - Możliwe rozszerzenia: logowanie/rejestracja, synchronizacja kalendarza, przypomnienia.

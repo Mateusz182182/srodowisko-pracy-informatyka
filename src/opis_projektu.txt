@@ -1,0 +1,3 @@
+Projekt dotyczy aplikacji wspomagającej zarządzanie czasem i nauką dla studentów. 
+Rozwiązuje problem rozproszenia, braku priorytetów i trudności w planowaniu zadań. 
+Odbiorcami są studenci w wieku 18–25 lat, którzy chcą poprawić produktywność i śledzić postępy. Planowane funkcje to lista zadań, kalendarz tygodniowy, prosty timer oraz podstawowe statystyki.
